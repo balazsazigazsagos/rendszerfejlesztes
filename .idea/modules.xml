@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/rendszerfejlesztes.iml" filepath="$PROJECT_DIR$/.idea/rendszerfejlesztes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autokereskedes/autokereskedes.iml" filepath="$PROJECT_DIR$/autokereskedes/autokereskedes.iml" />
     </modules>
   </component>
 </project>
